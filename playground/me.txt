@@ -1,0 +1,3 @@
+Name: Afrin Akter
+Skills: HTML, CSS, Bootstrap, tailwind, JS, React.js, daisyui, firebase, express.js, mongodb
+Email: akterafrin3600@gmail.com
